@@ -1,3 +1,5 @@
+package org.example;
+
 import java.awt.color.ICC_ColorSpace;
 
 public class BankAccount {
